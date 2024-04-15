@@ -16,7 +16,7 @@ public class GitStepByStepGuide {
         String step12= "Merge the code";
         String step13= "Delete the created secundary branch as it is already merged";
         String step14= "Go to IntelijIdea and checkout the master branch - git checkout master";
-        String step14= "download the latest version of origin master";
+        String step15= "download the latest version of origin master";
 
 
         System.out.println(step1);
